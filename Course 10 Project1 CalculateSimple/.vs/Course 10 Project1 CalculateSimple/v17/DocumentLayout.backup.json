@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SH\\source\\repos\\Course 10 Project1 CalculateSimple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02489147-91DC-482C-AA7F-B9D3ADA7CB36}|Course 10 Project1 CalculateSimple\\Course 10 Project1 CalculateSimple.vcxproj|C:\\Users\\SH\\source\\repos\\Course 10 Project1 CalculateSimple\\Course 10 Project1 CalculateSimple\\Course 10 Project1 CalculateSimple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02489147-91DC-482C-AA7F-B9D3ADA7CB36}|Course 10 Project1 CalculateSimple\\Course 10 Project1 CalculateSimple.vcxproj|solutionrelative:Course 10 Project1 CalculateSimple\\Course 10 Project1 CalculateSimple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course 10 Project1 CalculateSimple.cpp",
+              "DocumentMoniker": "C:\\Users\\SH\\source\\repos\\Course 10 Project1 CalculateSimple\\Course 10 Project1 CalculateSimple\\Course 10 Project1 CalculateSimple.cpp",
+              "RelativeDocumentMoniker": "Course 10 Project1 CalculateSimple\\Course 10 Project1 CalculateSimple.cpp",
+              "ToolTip": "C:\\Users\\SH\\source\\repos\\Course 10 Project1 CalculateSimple\\Course 10 Project1 CalculateSimple\\Course 10 Project1 CalculateSimple.cpp",
+              "RelativeToolTip": "Course 10 Project1 CalculateSimple\\Course 10 Project1 CalculateSimple.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-22T19:45:45.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

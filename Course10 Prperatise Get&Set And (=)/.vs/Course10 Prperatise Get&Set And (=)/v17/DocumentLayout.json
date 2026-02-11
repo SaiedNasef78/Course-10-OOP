@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SH\\source\\repos\\Course10 Prperatise Get\u0026Set And (=)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC05F0B-8A4D-49FE-8A3A-01D3D3809486}|Course10 Prperatise Get\u0026Set And (=)\\Course10 Prperatise Get\u0026Set And (=).vcxproj|C:\\Users\\SH\\source\\repos\\Course10 Prperatise Get\u0026Set And (=)\\Course10 Prperatise Get\u0026Set And (=)\\Course10 Prperatise Get\u0026Set And (=).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FC05F0B-8A4D-49FE-8A3A-01D3D3809486}|Course10 Prperatise Get\u0026Set And (=)\\Course10 Prperatise Get\u0026Set And (=).vcxproj|solutionrelative:Course10 Prperatise Get\u0026Set And (=)\\Course10 Prperatise Get\u0026Set And (=).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course10 Prperatise Get\u0026Set And (=).cpp",
+              "DocumentMoniker": "C:\\Users\\SH\\source\\repos\\Course10 Prperatise Get\u0026Set And (=)\\Course10 Prperatise Get\u0026Set And (=)\\Course10 Prperatise Get\u0026Set And (=).cpp",
+              "RelativeDocumentMoniker": "Course10 Prperatise Get\u0026Set And (=)\\Course10 Prperatise Get\u0026Set And (=).cpp",
+              "ToolTip": "C:\\Users\\SH\\source\\repos\\Course10 Prperatise Get\u0026Set And (=)\\Course10 Prperatise Get\u0026Set And (=)\\Course10 Prperatise Get\u0026Set And (=).cpp",
+              "RelativeToolTip": "Course10 Prperatise Get\u0026Set And (=)\\Course10 Prperatise Get\u0026Set And (=).cpp",
+              "ViewState": "AgIAABEAAABomZmZmZkhwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-21T21:40:25.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SH\\source\\repos\\Course 10 Destructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA60932C-7B96-4D32-9851-46BB35ECA7C7}|Course 10 Destructor\\Course 10 Destructor.vcxproj|C:\\Users\\SH\\source\\repos\\Course 10 Destructor\\Course 10 Destructor\\Course 10 Destructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA60932C-7B96-4D32-9851-46BB35ECA7C7}|Course 10 Destructor\\Course 10 Destructor.vcxproj|solutionrelative:Course 10 Destructor\\Course 10 Destructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course 10 Destructor.cpp",
+              "DocumentMoniker": "C:\\Users\\SH\\source\\repos\\Course 10 Destructor\\Course 10 Destructor\\Course 10 Destructor.cpp",
+              "RelativeDocumentMoniker": "Course 10 Destructor\\Course 10 Destructor.cpp",
+              "ToolTip": "C:\\Users\\SH\\source\\repos\\Course 10 Destructor\\Course 10 Destructor\\Course 10 Destructor.cpp",
+              "RelativeToolTip": "Course 10 Destructor\\Course 10 Destructor.cpp",
+              "ViewState": "AgIAAAUAAABAZWZmZmYawBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-23T09:42:02.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

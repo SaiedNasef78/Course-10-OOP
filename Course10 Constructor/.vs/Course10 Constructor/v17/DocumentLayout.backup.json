@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SH\\source\\repos\\Course10 Constructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45CA2A08-48B4-45DA-B1B7-2868F62CAE2C}|Course10 Constructor\\Course10 Constructor.vcxproj|C:\\Users\\SH\\source\\repos\\Course10 Constructor\\Course10 Constructor\\Course10 Constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45CA2A08-48B4-45DA-B1B7-2868F62CAE2C}|Course10 Constructor\\Course10 Constructor.vcxproj|solutionrelative:Course10 Constructor\\Course10 Constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course10 Constructor.cpp",
+              "DocumentMoniker": "C:\\Users\\SH\\source\\repos\\Course10 Constructor\\Course10 Constructor\\Course10 Constructor.cpp",
+              "RelativeDocumentMoniker": "Course10 Constructor\\Course10 Constructor.cpp",
+              "ToolTip": "C:\\Users\\SH\\source\\repos\\Course10 Constructor\\Course10 Constructor\\Course10 Constructor.cpp",
+              "RelativeToolTip": "Course10 Constructor\\Course10 Constructor.cpp",
+              "ViewState": "AgIAABIAAADAZWZmZmYawCsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-23T07:11:08.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

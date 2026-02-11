@@ -1,0 +1,4 @@
+﻿  Course 10 StaticFunction.cpp
+C:\Users\SH\source\repos\Course 10 StaticFunction\Course 10 StaticFunction\Course 10 StaticFunction.cpp(19,14): warning C4101: 'A2': unreferenced local variable
+C:\Users\SH\source\repos\Course 10 StaticFunction\Course 10 StaticFunction\Course 10 StaticFunction.cpp(19,18): warning C4101: 'A3': unreferenced local variable
+  Course 10 StaticFunction.vcxproj -> C:\Users\SH\source\repos\Course 10 StaticFunction\x64\Debug\Course 10 StaticFunction.exe
